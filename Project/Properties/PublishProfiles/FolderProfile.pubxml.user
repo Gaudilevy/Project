@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>ftp://46.101.246.82</_PublishTargetUrl>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAogInQwNWwkqrJIjEpr8XggAAAAACAAAAAAAQZgAAAAEAACAAAABPHDRsr7aQxK6rFJMa+Aqn/LbnqYdmIk4li18/flkQNAAAAAAOgAAAAAIAACAAAAA0Qb7vPdab1A7XLuWzqny3TO/hhlqay9i7AHkmDU1ynhAAAACCaSriwA68Yg5XQns2J6DsQAAAAFwv3mQGNIQrbw/tMtsBwoJd0RUbS1kc7FcYAC9LYQD/uJCfseX6leZp2Pb2GdJgDv54sfWYLe9MhPbQrX6uIEQ=</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>06/19/2019 20:18:05</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>06/19/2019 20:18:05</publishTime>
+    </File>
+    <File Include="Project.deps.json">
+      <publishTime>06/23/2019 20:43:55</publishTime>
+    </File>
+    <File Include="Project.dll">
+      <publishTime>06/23/2019 20:43:53</publishTime>
+    </File>
+    <File Include="Project.pdb">
+      <publishTime>06/23/2019 20:43:53</publishTime>
+    </File>
+    <File Include="Project.runtimeconfig.json">
+      <publishTime>06/23/2019 20:43:55</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>06/23/2019 20:43:55</publishTime>
+    </File>
+    <File Include="wwwroot/index.html">
+      <publishTime>06/23/2019 20:42:23</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

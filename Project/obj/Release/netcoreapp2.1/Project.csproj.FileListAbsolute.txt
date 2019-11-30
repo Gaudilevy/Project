@@ -1,0 +1,14 @@
+C:\Users\Ehud\source\repos\Project\Project\bin\Release\netcoreapp2.1\Project.deps.json
+C:\Users\Ehud\source\repos\Project\Project\bin\Release\netcoreapp2.1\Project.runtimeconfig.json
+C:\Users\Ehud\source\repos\Project\Project\bin\Release\netcoreapp2.1\Project.runtimeconfig.dev.json
+C:\Users\Ehud\source\repos\Project\Project\bin\Release\netcoreapp2.1\Project.dll
+C:\Users\Ehud\source\repos\Project\Project\bin\Release\netcoreapp2.1\Project.pdb
+C:\Users\Ehud\source\repos\Project\Project\obj\Release\netcoreapp2.1\Project.csprojAssemblyReference.cache
+C:\Users\Ehud\source\repos\Project\Project\obj\Release\netcoreapp2.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\Ehud\source\repos\Project\Project\obj\Release\netcoreapp2.1\Project.RazorAssemblyInfo.cache
+C:\Users\Ehud\source\repos\Project\Project\obj\Release\netcoreapp2.1\Project.RazorAssemblyInfo.cs
+C:\Users\Ehud\source\repos\Project\Project\obj\Release\netcoreapp2.1\Project.AssemblyInfoInputs.cache
+C:\Users\Ehud\source\repos\Project\Project\obj\Release\netcoreapp2.1\Project.AssemblyInfo.cs
+C:\Users\Ehud\source\repos\Project\Project\obj\Release\netcoreapp2.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\Ehud\source\repos\Project\Project\obj\Release\netcoreapp2.1\Project.dll
+C:\Users\Ehud\source\repos\Project\Project\obj\Release\netcoreapp2.1\Project.pdb
